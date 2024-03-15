@@ -46,7 +46,7 @@ document.addEventListener("adobe_dc_view_sdk.ready", function () {
         /* Pass meta data of file */
         metaData: {
             /* file name */
-            fileName: "PsiFi Whitepaper v1.0.0.pdf"
+            fileName: "PsiFi Whitepaper v1.pdf"
         }
     }, viewerConfig);
 });
