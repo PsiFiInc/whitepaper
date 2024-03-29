@@ -31,7 +31,7 @@ document.addEventListener("adobe_dc_view_sdk.ready", function () {
         content: {
             /* Location of file where it is hosted */
             location: {
-                url: "https://raw.githubusercontent.com/PsiFiInc/whitepaper/main/PsiFi_Whitepaper_v1.pdf",
+                url: "https://raw.githubusercontent.com/PsiFiInc/whitepaper/main/PsiFi_Whitepaper_v2.pdf",
                 /*
                 If the file URL requires some additional headers, then it can be passed as follows:-
                 headers: [
@@ -46,7 +46,7 @@ document.addEventListener("adobe_dc_view_sdk.ready", function () {
         /* Pass meta data of file */
         metaData: {
             /* file name */
-            fileName: "PsiFi Whitepaper v1.pdf"
+            fileName: "PsiFi Whitepaper v2.pdf"
         }
     }, viewerConfig);
 });
